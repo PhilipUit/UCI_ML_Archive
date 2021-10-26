@@ -14,9 +14,9 @@ The data set has 20 feature columns plus one result column and we need to do som
 - Change column types to match the associated feature types.
 - Replace word separators in strings like "-" or "." with spaces.
 - Do any values need to be replaced with NaN or are they better the way they are?
-- #8 in the text file states,
+- #8 in the text file states?
 
 3. Missing Attribute Values: There are several missing values in some categorical attributes, all coded with the "unknown" label. These missing values can be treated as a possible class label or using deletion or imputation techniques.
 
 - Decide what to do with these "unknown" values and defend your decision.
-Deliverable: Upload your notebook."
+
