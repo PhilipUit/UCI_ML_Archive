@@ -6,7 +6,7 @@ uses data(do see attachment) from the Bank Marketing data set from the UCI ML Ar
 
 The data set has 20 feature columns plus one result column and we need to do some work to get it ready for further processing.
 
-#### Reference the bank-additional-names.txt file for column types and what the names mean.
+####Reference the bank-additional-names.txt file for column types and what the names mean.
 
 #### Make the following changes:
 
