@@ -44,3 +44,26 @@ The data set has 20 feature columns plus one result column and we need to do som
 
 - Decide what to do with these "unknown" values and defend your decision.
 
+Final analysis of the results:
+What was the answer to your Analysis Question?
+
+We were able to succesfully find correlation between volume and the other variables in the dataset. By using various functions and models, we learned a ton about this data. Volume is correlated to a significant amount of variabels, but of course in various degrees. Percent_change_price is relately correlated to volume as well .Next weeks price is directly related to volume, obviously! Percent_change_next_weeks_price is moederately related to volume. We we able to identify the correlation bewteen each variable to another in using seaborn plots. Using linear models helped to demonstrate the relationship and likeiness of the variables potentially having predicatable measure for the future.
+How accurate was the model?
+
+The models appeared relatively accurate in comparison to the variables. Although the models were seemingingly accurate, that does not mean that we can conclusively say that we found any significant trends in the data that lead to an 'outbreak' in analysis. Most were predictable for those familiar with financial markets, as they should know what each variables have affect on another(hopefully).
+Thoughts to improve accuracy?
+
+To improve, it would be necessary to have significantly more data. This was not a huge dataset. To improve for more significant results, we could have had much more data and also worked on treating missing values as outlier values. We could possibly have more selection, feature selection, multiple algorithms, algorithm tuning (random forest), esemble methods (bagging boosting), cross validation, and potentially just tweaked the algorithm used better. https://www.analyticsvidhya.com/blog/2015/12/improve-machine-learning-results/
+Lessons learned.
+
+In conclusion, it was fun to perform this type of analysis. I learned that if I had more data, I would be able to improve my results in terms of greater correlation and significance. I learned that financial varibales in this dataset have significance and correlation to another. I learned that: Volume is correlated to a significant amount of variabels(but of course in various degrees), Percent_change_price is relately correlated to volume as well, Next weeks price is directly related to volume, (obviously), Percent_change_next_weeks_price is moederately related to volume. There were many lessons learned, and I hope to take them forward to better my analysis skills in the future!
+References:
+
+BIERLY, M. (2016, June 8). 10 Useful Python Data Visualization Libraries for Any Discipline. In Mode Blog. Retrieved from https://mode.com/blog/python-data-visualization-libraries/.
+
+Pico, . (2020). Difference between Linear Regression and Logistic Regression. In Pico Quantitative Trading LLC. Retrieved from https://www.pico.net/kb/difference-between-linear-regression-and-logistic-regression.
+
+swarnalisantra, . (n.d.). ML | Linear Regression vs Logistic Regression. In Geeks for Geeks. Retrieved from https://www.geeksforgeeks.org/ml-linear-regression-vs-logistic-regression/.
+
+The Python Graph Gallery, . (2017). The python graph gallery . In The Python Graph Gallery. Retrieved from https://python-graph-gallery.com/.
+
